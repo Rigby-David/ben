@@ -1,6 +1,6 @@
 header {
-  border: 1px solid black;
-  border-radius: 10px;
+  background-color: antiquewhite;
+  position: static;
 }
 
 .header-columns {
