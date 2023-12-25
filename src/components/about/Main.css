@@ -1,0 +1,22 @@
+.main {
+  max-width: 1216px;
+  margin: 0 auto;
+}
+
+.about {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 16px;
+}
+
+.pic {
+  height: 400px;
+  width: 400px;
+  border: 1px solid black;
+}
+
+.about-text {
+  height: 400px;
+  width: 400px;
+  border: 1px solid black;
+}
