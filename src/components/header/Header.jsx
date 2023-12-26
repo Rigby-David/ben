@@ -10,7 +10,15 @@ export default function Header() {
               <h3>Ben Fisher</h3>
             </div>
             <div className="col-1-desc">
-              <p>Technical Writer, User Advocate, Process Nerd</p>
+              <p>Technical Writer
+              </p>
+              <p>
+                User Advocate
+              </p>
+              <p>
+
+                Process Nerd
+              </p>
             </div>
           </div>
         </div>
